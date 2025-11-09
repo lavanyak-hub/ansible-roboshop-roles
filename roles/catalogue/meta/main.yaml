@@ -1,3 +1,2 @@
 dependencies:
-  - roles:common
-  
+  - roles: common
